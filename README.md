@@ -4,7 +4,7 @@
 Análisis y manejo de datos avanzados con Power BI
 
 
-El presente Curso de Análisis y Manejo de Datos con POWER BI está dirigido a personas que ya poseen conocimientos del manejo de bases de datos relacionales y necesiten administrar información para apoyar la toma de decisiones, a través del análisis y reportes de la información. 
+<p align="justify">El presente Curso de Análisis y Manejo de Datos con POWER BI está dirigido a personas que ya poseen conocimientos del manejo de bases de datos relacionales y necesiten administrar información para apoyar la toma de decisiones, a través del análisis y reportes de la información.</p> 
 
 OBJETIVOS:
 
@@ -86,12 +86,12 @@ Módulo 7: Conectividad y Configuración
 
 METODOLOGÍA
 
-Se utilizará una modalidad constructiva-interactiva, mediante la realización de clases que privilegien el aprendizaje práctico y contextualizado, con atención al alumno y a sus intereses específicos.
+<p align="justify">Se utilizará una modalidad constructiva-interactiva, mediante la realización de clases que privilegien el aprendizaje práctico y contextualizado, con atención al alumno y a sus intereses específicos.</p>
  
-Las actividades de clase serán guiadas y evaluadas en forma permanente por el relator, quien aprovechará toda oportunidad disponible para repasar y demostrar aquellos aspectos de la operación regular, que por su complejidad no es posible explicarlos en forma general.
+<p align="justify">Las actividades de clase serán guiadas y evaluadas en forma permanente por el relator, quien aprovechará toda oportunidad disponible para repasar y demostrar aquellos aspectos de la operación regular, que por su complejidad no es posible explicarlos en forma general.</p>
 
-Este es un curso eminentemente práctico, donde el relator expone los conceptos básicos, apoyado por medios audiovisuales, luego realiza las demostraciones y con una metodología orientada en el alumno como ser activo, permitirá que ellos puedan realizar las mismas actividades supervisados por el relator.
+<p align="justify">Este es un curso eminentemente práctico, donde el relator expone los conceptos básicos, apoyado por medios audiovisuales, luego realiza las demostraciones y con una metodología orientada en el alumno como ser activo, permitirá que ellos puedan realizar las mismas actividades supervisados por el relator.</p>
 
 EVALUACION
 
-Cada clase constará de una explicación breve sobre las operaciones, luego la práctica del alumno en un laboratorio, y finalmente, un ejercicio evaluado acumulativo. Al final del curso se realizará un ejercicio donde el alumno pueda demostrar su aprendizaje.
+<p align="justify">Cada clase constará de una explicación breve sobre las operaciones, luego la práctica del alumno en un laboratorio, y finalmente, un ejercicio evaluado acumulativo. Al final del curso se realizará un ejercicio donde el alumno pueda demostrar su aprendizaje.</p>
